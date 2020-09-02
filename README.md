@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6ec35d25-adc1-40e7-be1e-4d73e816d5fa/deploy-status)](https://app.netlify.com/sites/biancacosta.studio/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6ec35d25-adc1-40e7-be1e-4d73e816d5fa/deploy-status)](https://app.netlify.com/sites/biancacostastudio/deploys)
 
 # biancacosta.studio :camera:
 
