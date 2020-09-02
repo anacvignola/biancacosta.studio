@@ -24,8 +24,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
-        short_name: `starter`,
+        name: `biancacosta.studio`,
+        short_name: `biancacosta.studio`,
         start_url: `/`,
         background_color: `#E5E9F0`,
         theme_color: `#E5E9F0`,
